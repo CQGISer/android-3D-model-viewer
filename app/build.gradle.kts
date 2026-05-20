@@ -5,13 +5,13 @@ plugins {
 
 android {
     namespace = "org.the3deer.android.viewer"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "org.the3deer.android.viewer"
         minSdk = 24
-        targetSdk = 36
-        versionCode = 10
+        targetSdk = 35
+        versionCode = 11
         versionName = "5.0.5"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
